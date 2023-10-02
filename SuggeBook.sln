@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggeBook.Application", "SuggeBook.Application\SuggeBook.Application.csproj", "{A32ADF41-8802-4F47-9810-CD2A07B5344A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggeBook.Domain", "SuggeBook.Domain\SuggeBook.Domain.csproj", "{5B2BCD86-43FD-4B59-AD24-1B9EF8248AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32ADF41-8802-4F47-9810-CD2A07B5344A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32ADF41-8802-4F47-9810-CD2A07B5344A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32ADF41-8802-4F47-9810-CD2A07B5344A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32ADF41-8802-4F47-9810-CD2A07B5344A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2BCD86-43FD-4B59-AD24-1B9EF8248AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2BCD86-43FD-4B59-AD24-1B9EF8248AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2BCD86-43FD-4B59-AD24-1B9EF8248AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2BCD86-43FD-4B59-AD24-1B9EF8248AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CC3A8C6-9BD2-4793-90F2-75710AC9D6A4}
+	EndGlobalSection
+EndGlobal
